@@ -1,3 +1,7 @@
+
+
+
+
 *{
     margin: 0;
     padding: 0;
@@ -18,7 +22,7 @@
        height: 100%;
        overflow-y: hidden;
        overflow-x: hidden;
-   
+       
    }
    
    
@@ -55,10 +59,10 @@
        position: absolute;
        bottom: -450px;
        right: -500px;
-       width:1200px;
-       height: 1200px;
+       width:1000px;
+       height: 1000px;
        border-radius: 50%;
-       background-color:  #017143;
+       background-color:  rgb(130, 14, 201);
    }
    
    .social-media{
